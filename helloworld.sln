@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "helloworld", "helloworld\helloworld.csproj", "{91EDBACF-DA32-4DBD-B032-FE10FF109550}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A2446CF8-C366-42C0-A39D-8F543ADE8C8C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F2EF51F9-616C-46CC-B491-24DFBA9EE0C1}"
 	ProjectSection(SolutionItems) = preProject
-		.github\workflows\helloworld-aws.yml = .github\workflows\helloworld-aws.yml
+		.github\workflows\aws.yml = .github\workflows\aws.yml
 		.github\workflows\task-definition.json = .github\workflows\task-definition.json
 	EndProjectSection
 EndProject
