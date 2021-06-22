@@ -13,7 +13,7 @@ namespace helloworld.Controllers
         [HttpGet]
         public string Index()
         {
-            return "Hello, Welcome home";
+            return "Hello, Welcome home Tin Linn Soe";
         }
     }
 }
